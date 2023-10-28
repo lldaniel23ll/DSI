@@ -19,7 +19,7 @@ body {
 }
 
 .footer {
-  background: #11998e;
-  background: -webkit-linear-gradient(to bottom, #38ef7d, #11998e);
-  background: linear-gradient(to bottom, #38ef7d, #11998e);
+  background: #3498db;
+  height: 300px;
+  width: 100%;
 }
